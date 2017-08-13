@@ -26,7 +26,6 @@ var app = {
 
 
     });
-
   },
 
   fetch: function() {
